@@ -8,11 +8,14 @@ import Greeting from "./components/Greetings/Greetings"
 
 
 
+
 export default function App (){
     return (
-        <div>
-           <Navbar/>
-           <Greeting/>
-        </div>
+        <>
+
+        <Navbar/>
+        <Greeting/>
+
+        </>
     )
 } 
