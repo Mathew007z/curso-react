@@ -1,0 +1,25 @@
+
+
+
+.navbar { 
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fff;
+    height: 85px;
+    border-bottom: 1px solid #000;
+    align-items: center;
+   
+    
+}
+
+
+.navbar-ul{
+    list-style-type: none;
+}
+
+
+.nav-link{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+}
