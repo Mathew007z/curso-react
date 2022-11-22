@@ -13,6 +13,7 @@ import Cart from "../CartWidget/CartWidget"
   // Renderizando navbar
 
   return <> <div className="navbar">
+    
       <img src={ImgAv} alt="hoja" className="imgPlanta"/>
       <ul className="navbar-ul">
           <li>

@@ -7,7 +7,8 @@ function Greetings () {
     return (
         <>
             <div className="container">
-                <h1 className="h1-container">Bienvenido a mi proyecto de React!</h1>
+                <h1 className="h1-container">La Naturaleza en la puerta de tu Casa ! </h1>
+                <strong className=" h1-container paraText">30% Off</strong>
             </div>
         </>
     )

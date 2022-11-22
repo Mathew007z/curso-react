@@ -1,9 +1,35 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&family=Lobster&family=Poppins&family=Rajdhani&family=Rubik+Dirt&family=Satisfy&display=swap');
 
 
 .container{
-    height: 450px;
+    height: 600px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
+    background-image: url(/src/components/Greetings/banner.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+    
+  
+    
+}
+
+
+.h1-container{
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+    margin-bottom: 2.5em;
+    color:#000;
+    margin-right: 2em;
+   
+    
+    
+}
+
+
+.paraText {
+    margin-top: 3em;
+    font-size: 55px;
 }

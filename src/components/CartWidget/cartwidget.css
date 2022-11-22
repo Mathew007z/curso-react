@@ -1,0 +1,16 @@
+.cart{
+    width: 25px;
+    margin-left: 2.5em;
+}
+
+
+.divImg{
+    display: flex;
+
+}
+
+.paragraphimg{
+    font-size: 17px;
+    margin-left: .5em;
+    font-weight: bold;
+}
