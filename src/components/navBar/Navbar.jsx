@@ -1,6 +1,6 @@
 import "./navbar.css";
-import ImgAv from "../navBar/plant.png"
 import Cart from "../CartWidget/CartWidget"
+import ImgLogo from "../navBar/logoSinFondo.png"
 
 
 // Navbar
@@ -14,7 +14,7 @@ import Cart from "../CartWidget/CartWidget"
 
   return <> <div className="navbar">
     
-      <img src={ImgAv} alt="hoja" className="imgPlanta"/>
+      <img src={ImgLogo} alt="hoja" className="imgPlanta"/>
       <ul className="navbar-ul">
           <li>
             <a href="" className="nav-link">Inicio</a>

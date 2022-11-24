@@ -6,7 +6,7 @@
 .navbar { 
     display: flex;
     justify-content: space-evenly;
-    background-color: #fff;
+    background-color: rgba(59, 103, 63, 0.532);
     height: 65px;
     border-bottom: 1px solid #000;
     align-items: center;
@@ -22,7 +22,7 @@
 
 .nav-link{
     text-decoration: none;
-    color: #000;
+    color: #fff;
     font-size: 18px;
     cursor: pointer;
     font-family: 'Kanit', sans-serif;
@@ -36,10 +36,9 @@
 
 
 .imgPlanta { 
-    width: 60px;
-    height: 60px;
+    width: 90px;
+    height: 90px;
     overflow: hidden;
-    
-    
+
 }
 

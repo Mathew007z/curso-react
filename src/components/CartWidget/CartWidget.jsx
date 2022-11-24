@@ -1,15 +1,15 @@
 import "./cartwidget.css"
-import ImgCart from "../navBar/basket-fill.svg"
+import ImgCart from "../navBar/bag.svg"
+
 
 
 function Cart () {
 
-    
-    
+
 return (
         <div className="divImg">
             <img src={ImgCart} alt="cart" className="cart" />
-            <p className="paragraphImg">1</p>
+            <p className="paragraphImg">0</p>
         </div>
 )
 

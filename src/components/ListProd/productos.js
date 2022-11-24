@@ -7,7 +7,7 @@ export const productos = [
     id: 1,
     nombre: 'Rosa',
     precio: 2000,
-    imagen:"https://pixabay.com/images/id-729510/"
+    imagen:"../assets/flor1.jpg"
     }, 
     {
     id: 2,
